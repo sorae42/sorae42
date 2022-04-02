@@ -2,7 +2,7 @@
 
 Welcome, feel free to make yourself at home and checking around.
 
-To be fair, you should check out my [portfolio website](https://skyventuree.github.io) instead.
+To be fair, you should check out my [portfolio website](https://skyventuree.github.io) instead. I don't feel like putting a lot of stuff on there.
 
 ## Old projects
 
