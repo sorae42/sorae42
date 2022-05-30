@@ -6,6 +6,8 @@ To be fair, you should check out my [portfolio website](https://skyventuree.gith
 
 ## Old projects
 
-I put my old project on [Rosetta: Archived Projects](https://github.com/sora-archive). Most of the stuff here rarely get some description updated.
+~~I put my old project on [Rosetta: Archived Projects](https://github.com/sora-archive). Most of the stuff here rarely get some description updated.~~
+
+All of them are moved back to my profile.
 
 ### Have a nice day!!
