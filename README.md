@@ -2,12 +2,19 @@
 
 Welcome, feel free to make yourself at home and checking around.
 
-To be fair, you should check out my [portfolio website](https://skyventuree.github.io) instead. I don't feel like putting a lot of stuff on there.
+Check out my [portfolio website](https://skyventuree.github.io) for works I did.
 
-## Old projects
+# Utilities
 
-~~I put my old project on [Rosetta: Archived Projects](https://github.com/sora-archive). Most of the stuff here rarely get some description updated.~~
+Those are small program that I wrote/or trimmed down from big project for any personal purpose. You can try them out if you can, they are harmless.
 
-All of them are moved back to my profile.
+- [PingTest](https://skyventuree.github.io/pingtest) - Small utility for checking ping, alternative to the ping command.
+- [P5CCv2](https://github.com/skyventuree/p5cc-python) - Persona 5 Calling Card Maker Legacy version written in Python.
+- [FullTime](https://github.com/skyventuree/fulltime) - An utility that show full text time in English. For unix-ricing purpose.
 
-### Have a nice day!!
+# Planned project
+
+I have some project that are planned and/or being worked on, they are not guaranteed to be completed but I will try my best during this trying time...
+
+- CtrlBrowser - Browser that is designed for controller in mind. *(project is on hiatus.)*
+- steaditer - An alternative and cross-platform step editor for Stepmania, powered by the web technology.
