@@ -18,3 +18,6 @@ I have some project that are planned and/or being worked on, they are not guaran
 
 - CtrlBrowser - Browser that is designed for controller in mind. *(project is on hiatus.)*
 - steaditer - An alternative and cross-platform step editor for Stepmania, powered by the web technology.
+- sm-web - Website for viewing Stepmania simfiles.
+
+I'm not sure when I will be able to make them since I still have school works to do... someday I will pick them up...
