@@ -16,8 +16,9 @@ Those are small program that I wrote/or trimmed down from big project for any pe
 
 I have some project that are planned and/or being worked on, they are not guaranteed to be completed but I will try my best during this trying time...
 
-- CtrlBrowser - Browser that is designed for controller in mind. *(project is on hiatus.)*
+- CtrlBrowser - Browser that is designed for controller in mind.
 - steaditer - An alternative and cross-platform step editor for Stepmania, powered by the web technology.
 - sm-web - Website for viewing Stepmania simfiles.
+- ??? - A community pet game, inspired from Tamagotchi.
 
 I'm not sure when I will be able to make them since I still have school works to do... someday I will pick them up...
