@@ -4,7 +4,7 @@ Welcome, feel free to make yourself at home and checking around.
 
 Check out my [portfolio website](https://skyventuree.github.io) for works I did.
 
-## Featured work >
+## Featured work ❯
 
 ![P5CC thumbnail](https://raw.githubusercontent.com/skyventuree/skyventuree/main/meta.png)
 
