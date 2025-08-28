@@ -1,20 +1,20 @@
 {
   "name": "All Things Considered Reloaded",
-  "version": "1.4",
+  "version": "1.4.1",
   "resource_set_hash": "c223ed4a67c398b0aa6e01a1c20e972eccd712cd",
   "patches": null,
   "resources": [
     {
-      "path": "config/paxi/SmoothFont_1.21.zip",
+      "path": "config/paxi/resourcepacks/SmoothFont_1.21.zip",
       "hash": "1cc21ed48f53014dd5b48741cafc373ce81ad1ef",
       "size": 70794,
       "url": "https://cdn.modrinth.com/data/k3qLOytc/versions/Cino96nh/SmoothFont_1.21.zip"
     },
     {
-      "path": "config/paxi/experience-the-grandest.zip",
+      "path": "config/paxi/resourcepacks/experience-the-grandest.zip",
       "hash": "29e7109dc3e688f6ca7d188074231d61b80e7654",
       "size": 35665995,
-      "url": ""
+      "url": "https://github.com/sorae42/sorae42/releases/download/atc/experience-the-grandest.zip"
     },
     {
       "path": "mods/AnvilNeverTooExpensive-1.20.1-1.1.jar",
@@ -50,7 +50,7 @@
       "path": "mods/BiomesOPlenty-forge-1.20.1-19.0.0.96-repacked.jar",
       "hash": "2aa8fb80dacc2a56b83f8089c136bf89ee140069",
       "size": 18943815,
-      "url": ""
+      "url": "https://github.com/sorae42/sorae42/releases/download/atc/BiomesOPlenty-forge-1.20.1-19.0.0.96-repacked.jar"
     },
     {
       "path": "mods/Bookshelf-Forge-1.20.1-20.2.13.jar",
@@ -110,7 +110,7 @@
       "path": "mods/DoggyTalentsNext-1.20.1-1.18.60.jar",
       "hash": "f3fcc4c0b5662ce800738a99dadf331cd5876644",
       "size": 11325440,
-      "url": ""
+      "url": "https://www.curseforge.com/api/v1/mods/694492/files/6708695/download"
     },
     {
       "path": "mods/EffectTimerPlus-Forge-1.20.1-1.1.1.jar",
@@ -260,13 +260,13 @@
       "path": "mods/ParCool-1.20.1-3.4.1.4.jar",
       "hash": "fc68d584b4ba83e606155eff95b1a733ecaae1ba",
       "size": 1133347,
-      "url": ""
+      "url": "https://www.curseforge.com/api/v1/mods/482378/files/6881000/download"
     },
     {
       "path": "mods/ParCool-CompatibilityAddon-1.20.1-3.3.1.0-1.0.jar",
       "hash": "2783cb8af6f47456f5b7acf3e24ce418f4ea5a3f",
       "size": 15192,
-      "url": ""
+      "url": "https://mediafilez.forgecdn.net/files/6036/25/ParCool-CompatibilityAddon-1.20.1-3.3.1.0-1.0.jar"
     },
     {
       "path": "mods/Paraglider-forge-20.1.3.jar",
@@ -398,7 +398,7 @@
       "path": "mods/alltheleaks-1.0.1+1.20.1-forge.jar",
       "hash": "13dda9865bb6ecff4f9cbea148f71215172ebe73",
       "size": 1134589,
-      "url": ""
+      "url": "https://mediafilez.forgecdn.net/files/6916/160/alltheleaks-1.0.1%2B1.20.1-forge.jar"
     },
     {
       "path": "mods/amendments-1.20-2.2.1.jar",
@@ -416,7 +416,7 @@
       "path": "mods/aquamirae-6.API15-repacked.jar",
       "hash": "ecc22014af652fb7ba244912785fa69557b2cd74",
       "size": 9906671,
-      "url": ""
+      "url": "https://github.com/sorae42/sorae42/releases/download/atc/aquamirae-6.API15-repacked.jar"
     },
     {
       "path": "mods/architectury-9.2.14-forge.jar",
@@ -452,7 +452,7 @@
       "path": "mods/betterfpsdist-1.20.1-6.0.jar",
       "hash": "8e4fe2cd85c08c24ab363b47a63d1c872fc3cc1e",
       "size": 19917,
-      "url": ""
+      "url": "https://mediafilez.forgecdn.net/files/5723/247/betterfpsdist-1.20.1-6.0.jar"
     },
     {
       "path": "mods/bigcontraptions-1.0.jar",
@@ -464,7 +464,7 @@
       "path": "mods/born_in_chaos_[Forge]1.20.1_1.7.2.jar",
       "hash": "a8bda4c4fc29a190221877ea60820b60a1cc186f",
       "size": 11816101,
-      "url": ""
+      "url": "https://mediafilez.forgecdn.net/files/6833/957/born_in_chaos_%5BForge%5D1.20.1_1.7.2.jar"
     },
     {
       "path": "mods/botarium-forge-1.20.1-2.3.4.jar",
@@ -524,7 +524,7 @@
       "path": "mods/connectivity-1.20.1-7.1.jar",
       "hash": "d4f2165b6c34439d110111c71d774f19d6947261",
       "size": 112550,
-      "url": ""
+      "url": "https://mediafilez.forgecdn.net/files/6229/159/connectivity-1.20.1-7.1.jar"
     },
     {
       "path": "mods/copycats-3.0.2+mc.1.20.1-forge.jar",
@@ -608,7 +608,7 @@
       "path": "mods/cupboard-1.20.1-2.7.jar",
       "hash": "204bc8aa83e8a685f64311b72d55505ab2eca867",
       "size": 25983,
-      "url": ""
+      "url": "https://mediafilez.forgecdn.net/files/5470/32/cupboard-1.20.1-2.7.jar"
     },
     {
       "path": "mods/curios-forge-5.14.1+1.20.1.jar",
@@ -626,7 +626,7 @@
       "path": "mods/deeperdarker-forge-1.20.1-1.3.3-repacked.jar",
       "hash": "329b02459c5b5efd00bbed82cb527bf3a8bec70d",
       "size": 10725961,
-      "url": ""
+      "url": "https://github.com/sorae42/sorae42/releases/download/atc/deeperdarker-forge-1.20.1-1.3.3-repacked.jar"
     },
     {
       "path": "mods/deltaboxlib-forge-2.2.0+1.20.1.jar",
@@ -674,7 +674,7 @@
       "path": "mods/enlightend-5.0.14-1.20.1-repacked.jar",
       "hash": "8e2f8d4b8f31fc71cc18fa51a7e4711b4ba1de7f",
       "size": 13326950,
-      "url": ""
+      "url": "https://github.com/sorae42/sorae42/releases/download/atc/enlightend-5.0.14-1.20.1-repacked.jar"
     },
     {
       "path": "mods/entityculling-forge-1.8.2-mc1.20.1.jar",
@@ -704,7 +704,7 @@
       "path": "mods/farsight-1.20.1-3.7.jar",
       "hash": "c124558a7f6a7560944600c0f64a5e433d95cc4c",
       "size": 440849,
-      "url": ""
+      "url": "https://mediafilez.forgecdn.net/files/5531/397/farsight-1.20.1-3.7.jar"
     },
     {
       "path": "mods/fastboot-1.20.x-1.2.jar",
@@ -728,7 +728,7 @@
       "path": "mods/framework-forge-1.20.1-0.7.15.jar",
       "hash": "0963ba5c19634030dbf1358b5c5f5fb341fede73",
       "size": 309560,
-      "url": ""
+      "url": "https://mediafilez.forgecdn.net/files/6531/428/framework-forge-1.20.1-0.7.15.jar"
     },
     {
       "path": "mods/fumo-17.2.0-forge-1.20.1.jar",
@@ -752,7 +752,7 @@
       "path": "mods/holoproduct-1.20.1-forge-downscale256.jar",
       "hash": "5ade13ba7f23444349d6579fb030dc135d411500",
       "size": 20585294,
-      "url": ""
+      "url": "https://github.com/PunnPoungprom/Hololive-Product/releases/download/1.0.0-Downscale/holoproduct-1.20.1-forge-downscale256.jar"
     },
     {
       "path": "mods/iChunUtil-1.20.1-Forge-1.0.3.jar",
@@ -926,7 +926,7 @@
       "path": "mods/mighty_mail-forge-1.20.1-1.1.4.jar",
       "hash": "43af108f39831eb75280b63e0819a1b1176abda8",
       "size": 200235,
-      "url": ""
+      "url": "https://mediafilez.forgecdn.net/files/6777/569/mighty_mail-forge-1.20.1-1.1.4.jar"
     },
     {
       "path": "mods/minopp-1.3.0+1.20.1+forge.jar",
@@ -1034,7 +1034,7 @@
       "path": "mods/refurbished_furniture-forge-1.20.1-1.0.14.jar",
       "hash": "b4aa83b3ad88939625da29c0adbad7eddc88c148",
       "size": 6686700,
-      "url": ""
+      "url": "https://mediafilez.forgecdn.net/files/6623/931/refurbished_furniture-forge-1.20.1-1.0.14.jar"
     },
     {
       "path": "mods/resourcefulconfig-forge-1.20.1-2.1.3.jar",
@@ -1112,7 +1112,7 @@
       "path": "mods/soulslike-weaponry-1.2.4-1.20.1-forge-repacked.jar",
       "hash": "0a80466ff0b23ef68f269bef6981ddc74ab744ec",
       "size": 20269645,
-      "url": ""
+      "url": "https://github.com/sorae42/sorae42/releases/download/atc/soulslike-weaponry-1.2.4-1.20.1-forge-repacked.jar"
     },
     {
       "path": "mods/soundofrain-0.4a.jar",
@@ -1121,10 +1121,10 @@
       "url": "https://cdn.modrinth.com/data/8GRDQ9XB/versions/2cVkyKA6/soundofrain-0.4a.jar"
     },
     {
-      "path": "mods/stardew_fishing-1.20.1-2.3.jar",
+      "path": "mods/stardew_fishing-3.2-1.20.1.jar",
       "hash": "b8229d95444e9ca52e6519d4fa527aa73b8e3c29",
       "size": 567619,
-      "url": ""
+      "url": "https://cdn.modrinth.com/data/Rw1Ylmn4/versions/7h6Cjuz9/stardew_fishing-3.2-1.20.1.jar"
     },
     {
       "path": "mods/supplementaries-1.20-3.1.37.jar",
@@ -1142,7 +1142,7 @@
       "path": "mods/tacz-1.20.1-1.1.6-hotfix-repacked.jar",
       "hash": "a8ce230efa150b95875823ee8dead7412bff01dc",
       "size": 25824836,
-      "url": ""
+      "url": "https://github.com/sorae42/sorae42/releases/download/atc/tacz-1.20.1-1.1.6-hotfix-repacked.jar"
     },
     {
       "path": "mods/toms_storage-1.20-1.7.1.jar",
@@ -1166,7 +1166,7 @@
       "path": "mods/trashslot-forge-1.20-15.1.2.jar",
       "hash": "c83d929a3535f6a1c371d7c8d4c915bc7d814c27",
       "size": 117791,
-      "url": ""
+      "url": "https://mediafilez.forgecdn.net/files/6319/121/trashslot-forge-1.20-15.1.2.jar"
     },
     {
       "path": "mods/travelersbackpack-forge-1.20.1-9.1.40.jar",
