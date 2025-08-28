@@ -1,7 +1,7 @@
 {
   "name": "All Things Considered Reloaded",
-  "version": "1.4.1",
-  "resource_set_hash": "c223ed4a67c398b0aa6e01a1c20e972eccd712cd",
+  "version": "1.4.2",
+  "resource_set_hash": "01833917b11018170240b5bc06109f1cb37f6c4e",
   "patches": null,
   "resources": [
     {
@@ -1123,7 +1123,7 @@
     {
       "path": "mods/stardew_fishing-3.2-1.20.1.jar",
       "hash": "0eeae8b7af36dbf6e1517e6ce7725072e67b10ab",
-      "size": 567619,
+      "size": 858581,
       "url": "https://cdn.modrinth.com/data/Rw1Ylmn4/versions/7h6Cjuz9/stardew_fishing-3.2-1.20.1.jar"
     },
     {
