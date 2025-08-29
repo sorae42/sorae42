@@ -1,7 +1,7 @@
 {
   "name": "All Things Considered Reloaded",
-  "version": "1.4.22",
-  "resource_set_hash": "4c63fd08a228603df55de512e00507ccaeb248b3",
+  "version": "1.4.23",
+  "resource_set_hash": "d18209de7e3b6d2f19929105b4791e1430b6cdfa",
   "patches": [],
   "resources": [
     {
@@ -1061,10 +1061,10 @@
       "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/UZBKtFyR/polymorph-forge-0.49.10%2B1.20.1.jar"
     },
     {
-      "path": "mods/projectile_damage-forge-3.2.3+1.20.1.jar",
-      "hash": "9bc4ba19c11361ee0758c4f7b63bbb6d66680926",
-      "size": 252688,
-      "url": "https://cdn.modrinth.com/data/AOyJhFvl/versions/Xk19d9L4/projectile_damage-forge-3.2.3%2B1.20.1.jar"
+      "path": "mods/projectile_damage-forge-3.2.2+1.20.1.jar",
+      "hash": "9c7378a0b9905d032c8bb5a6f72866229bfe4ed6",
+      "size": 251688,
+      "url": "https://cdn.modrinth.com/data/AOyJhFvl/versions/KgTLAkfq/projectile_damage-forge-3.2.2%2B1.20.1.jar"
     },
     {
       "path": "mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
