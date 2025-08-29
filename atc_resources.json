@@ -1,8 +1,8 @@
 {
   "name": "All Things Considered Reloaded",
-  "version": "1.4.15",
+  "version": "1.4.19",
   "resource_set_hash": "1b3569b54d20291009cf24f58dc9c2d738b22be7",
-  "patches": null,
+  "patches": [],
   "resources": [
     {
       "path": "config/fancymenu/assets/discord.png",
