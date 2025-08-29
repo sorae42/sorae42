@@ -1,7 +1,7 @@
 {
   "name": "All Things Considered Reloaded",
-  "version": "1.4.20",
-  "resource_set_hash": "1985cb7ad196c1724fdcd0525e1a17c986678ef7",
+  "version": "1.4.22",
+  "resource_set_hash": "4c63fd08a228603df55de512e00507ccaeb248b3",
   "patches": [],
   "resources": [
     {
@@ -305,10 +305,10 @@
       "url": "https://cdn.modrinth.com/data/XD7XOrAF/versions/w90XIUWB/OverflowingBars-v8.0.1-1.20.1-Forge.jar"
     },
     {
-      "path": "mods/ParCool-1.20.1-3.4.1.4.jar",
-      "hash": "fc68d584b4ba83e606155eff95b1a733ecaae1ba",
-      "size": 1133347,
-      "url": "https://www.curseforge.com/api/v1/mods/482378/files/6881000/download"
+      "path": "mods/ParCool-1.20.1-3.4.1.5.jar",
+      "hash": "ad61d32c5185bd9daa43722657af3a8a5aa751a0",
+      "size": 1133021,
+      "url": "https://mediafilez.forgecdn.net/files/6940/388/ParCool-1.20.1-3.4.1.5.jar"
     },
     {
       "path": "mods/ParCool-CompatibilityAddon-1.20.1-3.3.1.0-1.0.jar",
@@ -335,10 +335,10 @@
       "url": "https://cdn.modrinth.com/data/CU0PAyzb/versions/C7buFh0l/Paxi-1.20-Forge-4.0.jar"
     },
     {
-      "path": "mods/Ping-Wheel-1.10.3-forge-1.20.1.jar",
-      "hash": "83d4cace0194897d6d4bea8317599a1215f66f87",
-      "size": 112746,
-      "url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/jnzl9ziX/Ping-Wheel-1.10.3-forge-1.20.1.jar"
+      "path": "mods/Ping-Wheel-1.11.0-forge-1.20.1.jar",
+      "hash": "b0d04d3c1ae13a3cb6d6450c1c94d5c9bc82db5c",
+      "size": 140563,
+      "url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/usgkP0fO/Ping-Wheel-1.11.0-forge-1.20.1.jar"
     },
     {
       "path": "mods/Platform-forge-1.20.1-1.2.10.1.jar",
@@ -443,10 +443,10 @@
       "url": "https://cdn.modrinth.com/data/YhmgMVyu/versions/2411kUqF/aether-1.20.1-1.5.2-neoforge.jar"
     },
     {
-      "path": "mods/alltheleaks-1.0.1+1.20.1-forge.jar",
-      "hash": "13dda9865bb6ecff4f9cbea148f71215172ebe73",
-      "size": 1134589,
-      "url": "https://mediafilez.forgecdn.net/files/6916/160/alltheleaks-1.0.1%2B1.20.1-forge.jar"
+      "path": "mods/alltheleaks-1.0.2+1.20.1-forge.jar",
+      "hash": "ead0c329b746ef023292f870874906a388212c93",
+      "size": 1135004,
+      "url": "https://mediafilez.forgecdn.net/files/6925/345/alltheleaks-1.0.2%2B1.20.1-forge.jar"
     },
     {
       "path": "mods/amendments-1.20-2.2.1.jar",
@@ -563,10 +563,10 @@
       "url": "https://cdn.modrinth.com/data/BzHgFoGz/versions/mKuco75o/colorwheel-forge-0.2.3%2Bmc1.20.1.jar"
     },
     {
-      "path": "mods/compatdelight-1.0.0.jar",
-      "hash": "0fd0a95579b379c966eedf9f3d30a3fdc59bb5ed",
-      "size": 1941571,
-      "url": "https://cdn.modrinth.com/data/iNJJU8Ib/versions/y834gojK/compatdelight-1.0.0.jar"
+      "path": "mods/compatdelight-1.0.1.jar",
+      "hash": "25d0ce7d838073beec045ae56c7d3f2597b64013",
+      "size": 2056770,
+      "url": "https://cdn.modrinth.com/data/iNJJU8Ib/versions/KWEH8IeQ/compatdelight-1.0.1.jar"
     },
     {
       "path": "mods/connectivity-1.20.1-7.1.jar",
@@ -791,10 +791,10 @@
       "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/eNoSkpjw/fzzy_config-0.7.2%2B1.20.1%2Bforge.jar"
     },
     {
-      "path": "mods/geckolib-forge-1.20.1-4.7.3.jar",
-      "hash": "43de99307949bc022bcc4a4ed17df360a74670e3",
-      "size": 1012610,
-      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/39SztbiB/geckolib-forge-1.20.1-4.7.3.jar"
+      "path": "mods/geckolib-forge-1.20.1-4.7.4.jar",
+      "hash": "db550c1cab6c5e07a592f7881b6772d45626a50d",
+      "size": 1013210,
+      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/DGATwRuj/geckolib-forge-1.20.1-4.7.4.jar"
     },
     {
       "path": "mods/holoproduct-1.20.1-forge-downscale256.jar",
@@ -977,10 +977,10 @@
       "url": "https://mediafilez.forgecdn.net/files/6777/569/mighty_mail-forge-1.20.1-1.1.4.jar"
     },
     {
-      "path": "mods/minopp-1.3.0+1.20.1+forge.jar",
-      "hash": "2e52c20648acc0f7c7c1e738e53884646a2e0833",
-      "size": 290943,
-      "url": "https://cdn.modrinth.com/data/4QitwNm0/versions/sZwM1wmw/minopp-1.3.0%2B1.20.1%2Bforge.jar"
+      "path": "mods/minopp-1.4.0+1.20.1+forge.jar",
+      "hash": "0cf360603f6eaeca78b3d467e3c010cc62e74e35",
+      "size": 298427,
+      "url": "https://cdn.modrinth.com/data/4QitwNm0/versions/j5C8sn6g/minopp-1.4.0%2B1.20.1%2Bforge.jar"
     },
     {
       "path": "mods/modernfix-forge-5.24.4+mc1.20.1.jar",
@@ -989,10 +989,10 @@
       "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/CixO1IdG/modernfix-forge-5.24.4%2Bmc1.20.1.jar"
     },
     {
-      "path": "mods/moonlight-1.20-2.16.5-forge.jar",
-      "hash": "461b979a7c1f100a17af4558910f34f259bb56b2",
-      "size": 1326648,
-      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/uiOJ4NEz/moonlight-1.20-2.16.5-forge.jar"
+      "path": "mods/moonlight-1.20-2.16.8-forge.jar",
+      "hash": "3cde645d204a3cc5e1550b839e2954ee5b70d454",
+      "size": 1332010,
+      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/sWagczEr/moonlight-1.20-2.16.8-forge.jar"
     },
     {
       "path": "mods/mysterious_mountain_lib-1.5.23-1.20.1.jar",
@@ -1061,10 +1061,10 @@
       "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/UZBKtFyR/polymorph-forge-0.49.10%2B1.20.1.jar"
     },
     {
-      "path": "mods/projectile_damage-forge-3.2.2+1.20.1.jar",
-      "hash": "9c7378a0b9905d032c8bb5a6f72866229bfe4ed6",
-      "size": 251688,
-      "url": "https://cdn.modrinth.com/data/AOyJhFvl/versions/KgTLAkfq/projectile_damage-forge-3.2.2%2B1.20.1.jar"
+      "path": "mods/projectile_damage-forge-3.2.3+1.20.1.jar",
+      "hash": "9bc4ba19c11361ee0758c4f7b63bbb6d66680926",
+      "size": 252688,
+      "url": "https://cdn.modrinth.com/data/AOyJhFvl/versions/Xk19d9L4/projectile_damage-forge-3.2.3%2B1.20.1.jar"
     },
     {
       "path": "mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
@@ -1313,10 +1313,10 @@
       "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/sCWgXDYQ/yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar"
     },
     {
-      "path": "mods/youkaishomecoming-2.5.8.jar",
-      "hash": "e747647228e31f9d1d02dce5cd6ce7f13f7fee7e",
-      "size": 6021146,
-      "url": "https://cdn.modrinth.com/data/uJT3ahxz/versions/pKQ6YpB6/youkaishomecoming-2.5.8.jar"
+      "path": "mods/youkaishomecoming-2.5.9.jar",
+      "hash": "ac5cd2ee10c839c5bcfb6af6d741e88150b6dfef",
+      "size": 6027969,
+      "url": "https://cdn.modrinth.com/data/uJT3ahxz/versions/qcl8YZaG/youkaishomecoming-2.5.9.jar"
     }
   ]
 }
