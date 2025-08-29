@@ -1,9 +1,57 @@
 {
   "name": "All Things Considered Reloaded",
-  "version": "1.4.2",
-  "resource_set_hash": "01833917b11018170240b5bc06109f1cb37f6c4e",
+  "version": "1.4.15",
+  "resource_set_hash": "1b3569b54d20291009cf24f58dc9c2d738b22be7",
   "patches": null,
   "resources": [
+    {
+      "path": "config/fancymenu/assets/discord.png",
+      "hash": "11bcf8d72a2c129a3cf442c6262d834ed6d88351",
+      "size": 9453,
+      "url": "https://github.com/sorae42/sorae42/releases/download/atc/discord.png"
+    },
+    {
+      "path": "config/fancymenu/assets/keys.png",
+      "hash": "b1e50188b52fb1265b72d26f3b1358f7c66616c4",
+      "size": 8233,
+      "url": "https://github.com/sorae42/sorae42/releases/download/atc/keys.png"
+    },
+    {
+      "path": "config/fancymenu/assets/logo.png",
+      "hash": "d6bd5a5a0e3e012a4f3b6ffd49c151026d12e874",
+      "size": 31127,
+      "url": "https://github.com/sorae42/sorae42/releases/download/atc/logo.png"
+    },
+    {
+      "path": "config/fancymenu/customization/atc.tutorial.keys_layout.txt",
+      "hash": "2b72541d565763d1193a167de4b349fa7eb86b3d",
+      "size": 30681,
+      "url": "https://github.com/sorae42/sorae42/releases/download/atc/atc.tutorial.keys_layout.txt"
+    },
+    {
+      "path": "config/fancymenu/customization/betteradvancements.common.gui.betteradvancementsscreen_layout.txt",
+      "hash": "d4ae3d618a32d67b841dbfd9fa78bed9fa4e13b9",
+      "size": 3108,
+      "url": "https://github.com/sorae42/sorae42/releases/download/atc/betteradvancements.common.gui.betteradvancementsscreen_layout.txt"
+    },
+    {
+      "path": "config/fancymenu/customization/pause_screen_layout.txt",
+      "hash": "abe365ecb15fd2af7c2bdd0b66bf4a71364d0da8",
+      "size": 31366,
+      "url": "https://github.com/sorae42/sorae42/releases/download/atc/pause_screen_layout.txt"
+    },
+    {
+      "path": "config/fancymenu/customization/receiving_level_screen_layout.txt",
+      "hash": "8dbc656096459afb0251e87384b7966210f3b013",
+      "size": 4849,
+      "url": "https://github.com/sorae42/sorae42/releases/download/atc/receiving_level_screen_layout.txt"
+    },
+    {
+      "path": "config/fancymenu/customization/title_screen_layout.txt",
+      "hash": "0fe5b9a4dc82fea76d6b956f19e4a715895f3df8",
+      "size": 45656,
+      "url": "https://github.com/sorae42/sorae42/releases/download/atc/title_screen_layout.txt"
+    },
     {
       "path": "config/paxi/resourcepacks/SmoothFont_1.21.zip",
       "hash": "1cc21ed48f53014dd5b48741cafc373ce81ad1ef",
