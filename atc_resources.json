@@ -1,7 +1,7 @@
 {
   "name": "All Things Considered Reloaded",
-  "version": "1.4.23",
-  "resource_set_hash": "d18209de7e3b6d2f19929105b4791e1430b6cdfa",
+  "version": "1.4.24",
+  "resource_set_hash": "c6452876bc426c048b6b3f77a36cbe4c7dc550c2",
   "patches": [],
   "resources": [
     {
@@ -48,8 +48,8 @@
     },
     {
       "path": "config/fancymenu/customization/title_screen_layout.txt",
-      "hash": "0fe5b9a4dc82fea76d6b956f19e4a715895f3df8",
-      "size": 45656,
+      "hash": "75e97f5116d982e50cd94e4ae52f3d9be8bcd04c",
+      "size": 45655,
       "url": "https://github.com/sorae42/sorae42/releases/download/atc/title_screen_layout.txt"
     },
     {
