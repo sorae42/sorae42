@@ -1,7 +1,7 @@
 {
   "name": "All Things Considered Reloaded",
-  "version": "1.4.19",
-  "resource_set_hash": "1b3569b54d20291009cf24f58dc9c2d738b22be7",
+  "version": "1.4.20",
+  "resource_set_hash": "1985cb7ad196c1724fdcd0525e1a17c986678ef7",
   "patches": [],
   "resources": [
     {
@@ -1047,6 +1047,12 @@
       "hash": "3ed8b4abca91bde2b8823b4d30473e3d3d5d9c9b",
       "size": 726154,
       "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/5GKT9zMT/particlerain-4.0.0-alpha.3%2B1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "hash": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
+      "size": 181437,
+      "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/xe2EVE6q/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar"
     },
     {
       "path": "mods/polymorph-forge-0.49.10+1.20.1.jar",
