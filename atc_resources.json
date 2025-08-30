@@ -1,10 +1,11 @@
 {
   "name": "All Things Considered Reloaded",
-  "version": "1.4.28",
-  "resource_set_hash": "78562e5736489099ce1ef3d4b1e6af617ffb807e",
+  "version": "1.4.29",
+  "resource_set_hash": "77ce82286051daa1e76052742cea088df746d207",
   "patches": [
     "mods/RenderScale-forge-1.20.1-1.0.jar.disabled",
-    "mods/paladin-furniture-mod-1.4.2-forge-mc1.20.1.jar"
+    "mods/paladin-furniture-mod-1.4.2-forge-mc1.20.1.jar",
+    "mods/mighty_mail-forge-1.20.1-1.1.4.jar"
   ],
   "resources": [
     {
@@ -966,12 +967,6 @@
       "hash": "e0942d396a70c09038e6c2e5e1da6505178249b8",
       "size": 37178,
       "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/lJlW5r8R/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"
-    },
-    {
-      "path": "mods/mighty_mail-forge-1.20.1-1.1.4.jar",
-      "hash": "43af108f39831eb75280b63e0819a1b1176abda8",
-      "size": 200235,
-      "url": "https://mediafilez.forgecdn.net/files/6777/569/mighty_mail-forge-1.20.1-1.1.4.jar"
     },
     {
       "path": "mods/minopp-1.4.0+1.20.1+forge.jar",
