@@ -1,7 +1,7 @@
 {
   "name": "All Things Considered Reloaded",
-  "version": "1.4.29",
-  "resource_set_hash": "77ce82286051daa1e76052742cea088df746d207",
+  "version": "1.4.30",
+  "resource_set_hash": "c5f7bc23bd98e49801913b0c7b8f6b86a683d601",
   "patches": [
     "mods/RenderScale-forge-1.20.1-1.0.jar.disabled",
     "mods/paladin-furniture-mod-1.4.2-forge-mc1.20.1.jar",
@@ -58,8 +58,8 @@
     },
     {
       "path": "config/paxi/resourcepacks/experience-the-grandest.zip",
-      "hash": "0a9f12cdb0755d365d962a604c26faa3804ca626",
-      "size": 38494491,
+      "hash": "b81e2bf32cfd3cc8829fceaa57e326c465adc5cc",
+      "size": 38492315,
       "url": "https://github.com/sorae42/sorae42/releases/download/atc/experience-the-grandest.zip"
     },
     {
