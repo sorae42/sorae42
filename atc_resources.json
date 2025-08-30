@@ -1,8 +1,11 @@
 {
   "name": "All Things Considered Reloaded",
-  "version": "1.4.25",
-  "resource_set_hash": "911a9588d2f32df87bd2af01231f6f34092eb18a",
-  "patches": [],
+  "version": "1.4.28",
+  "resource_set_hash": "78562e5736489099ce1ef3d4b1e6af617ffb807e",
+  "patches": [
+    "mods/RenderScale-forge-1.20.1-1.0.jar.disabled",
+    "mods/paladin-furniture-mod-1.4.2-forge-mc1.20.1.jar"
+  ],
   "resources": [
     {
       "path": "config/fancymenu/assets/discord.png",
@@ -54,8 +57,8 @@
     },
     {
       "path": "config/paxi/resourcepacks/experience-the-grandest.zip",
-      "hash": "29e7109dc3e688f6ca7d188074231d61b80e7654",
-      "size": 35665995,
+      "hash": "0a9f12cdb0755d365d962a604c26faa3804ca626",
+      "size": 38494491,
       "url": "https://github.com/sorae42/sorae42/releases/download/atc/experience-the-grandest.zip"
     },
     {
@@ -353,7 +356,7 @@
       "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/mIyVGf3d/PuzzlesLib-v8.1.33-1.20.1-Forge.jar"
     },
     {
-      "path": "mods/RenderScale-forge-1.20.1-1.0.jar.disabled",
+      "path": "mods/RenderScale-forge-1.20.1-1.0.jar",
       "hash": "818391dd2b5ac89f5af7d16a8634df7f85837580",
       "size": 82692,
       "url": "https://cdn.modrinth.com/data/Va8PJBFX/versions/wzrQQ6Z9/RenderScale-forge-1.20.1-1.0.jar"
@@ -1023,12 +1026,6 @@
       "hash": "984f774e71790deaec674c7587bd24e0711871b2",
       "size": 2851119,
       "url": "https://cdn.modrinth.com/data/GchcoXML/versions/iQ1SwGc3/oculus-mc1.20.1-1.8.0.jar"
-    },
-    {
-      "path": "mods/paladin-furniture-mod-1.4.2-forge-mc1.20.1.jar",
-      "hash": "351b38ec8811fe6c8a5884491483de44266e1d6e",
-      "size": 5895079,
-      "url": "https://cdn.modrinth.com/data/SISz7Qd3/versions/cCr5h4KB/paladin-furniture-mod-1.4.2-forge-mc1.20.1.jar"
     },
     {
       "path": "mods/particle_core-0.2.6+1.20.1+forge.jar",
