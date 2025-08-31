@@ -1,7 +1,7 @@
 {
   "name": "All Things Considered Reloaded",
-  "version": "1.4.30",
-  "resource_set_hash": "c5f7bc23bd98e49801913b0c7b8f6b86a683d601",
+  "version": "1.4.31",
+  "resource_set_hash": "02ca688f9a3b6f8245b2bd71d91bfaa2f2396f57",
   "patches": [
     "mods/RenderScale-forge-1.20.1-1.0.jar.disabled",
     "mods/paladin-furniture-mod-1.4.2-forge-mc1.20.1.jar",
@@ -1303,6 +1303,12 @@
       "hash": "ac5cd2ee10c839c5bcfb6af6d741e88150b6dfef",
       "size": 6027969,
       "url": "https://cdn.modrinth.com/data/uJT3ahxz/versions/qcl8YZaG/youkaishomecoming-2.5.9.jar"
+    },
+    {
+      "path": "config/paxi/resourcepacks/atc_resources.zip",
+      "hash": "ce331a58bec2325581b14bdb72546386b15f0291",
+      "size": 3641,
+      "url": "https://github.com/sorae42/sorae42/releases/download/respack/atc_resources.zip"
     }
   ]
 }
