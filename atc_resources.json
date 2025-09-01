@@ -1,11 +1,13 @@
 {
   "name": "All Things Considered Reloaded",
-  "version": "1.4.31",
-  "resource_set_hash": "02ca688f9a3b6f8245b2bd71d91bfaa2f2396f57",
+  "version": "1.4.33",
+  "resource_set_hash": "7aac4f6dbb3c9e40cb2a1d64cc208e2c7d28fc95",
   "patches": [
     "mods/RenderScale-forge-1.20.1-1.0.jar.disabled",
     "mods/paladin-furniture-mod-1.4.2-forge-mc1.20.1.jar",
-    "mods/mighty_mail-forge-1.20.1-1.1.4.jar"
+    "mods/mighty_mail-forge-1.20.1-1.1.4.jar",
+    "mods/ParCool-1.20.1-3.4.1.5.jar",
+    "mods/ParCool-CompatibilityAddon-1.20.1-3.3.1.0-1.0.jar"
   ],
   "resources": [
     {
@@ -55,6 +57,12 @@
       "hash": "1cc21ed48f53014dd5b48741cafc373ce81ad1ef",
       "size": 70794,
       "url": "https://cdn.modrinth.com/data/k3qLOytc/versions/Cino96nh/SmoothFont_1.21.zip"
+    },
+    {
+      "path": "config/paxi/resourcepacks/atc_resources.zip",
+      "hash": "ce331a58bec2325581b14bdb72546386b15f0291",
+      "size": 3641,
+      "url": "https://github.com/sorae42/sorae42/releases/download/respack/atc_resources.zip"
     },
     {
       "path": "config/paxi/resourcepacks/experience-the-grandest.zip",
@@ -301,18 +309,6 @@
       "hash": "047ac47549ae0a21b05f70d74bcf436ee0221eef",
       "size": 73689,
       "url": "https://cdn.modrinth.com/data/XD7XOrAF/versions/w90XIUWB/OverflowingBars-v8.0.1-1.20.1-Forge.jar"
-    },
-    {
-      "path": "mods/ParCool-1.20.1-3.4.1.5.jar",
-      "hash": "ad61d32c5185bd9daa43722657af3a8a5aa751a0",
-      "size": 1133021,
-      "url": "https://mediafilez.forgecdn.net/files/6940/388/ParCool-1.20.1-3.4.1.5.jar"
-    },
-    {
-      "path": "mods/ParCool-CompatibilityAddon-1.20.1-3.3.1.0-1.0.jar",
-      "hash": "2783cb8af6f47456f5b7acf3e24ce418f4ea5a3f",
-      "size": 15192,
-      "url": "https://mediafilez.forgecdn.net/files/6036/25/ParCool-CompatibilityAddon-1.20.1-3.3.1.0-1.0.jar"
     },
     {
       "path": "mods/Paraglider-forge-20.1.3.jar",
@@ -1303,12 +1299,6 @@
       "hash": "ac5cd2ee10c839c5bcfb6af6d741e88150b6dfef",
       "size": 6027969,
       "url": "https://cdn.modrinth.com/data/uJT3ahxz/versions/qcl8YZaG/youkaishomecoming-2.5.9.jar"
-    },
-    {
-      "path": "config/paxi/resourcepacks/atc_resources.zip",
-      "hash": "ce331a58bec2325581b14bdb72546386b15f0291",
-      "size": 3641,
-      "url": "https://github.com/sorae42/sorae42/releases/download/respack/atc_resources.zip"
     }
   ]
 }
