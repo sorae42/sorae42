@@ -1,14 +1,16 @@
 {
   "name": "All Things Considered Reloaded",
-  "version": "1.4.35",
-  "resource_set_hash": "12a99ba6d1857047f58cfc7ee0a9829a0dc40819",
+  "version": "1.4.37",
+  "resource_set_hash": "ca3397de81296397a0696dda9a7f56b0b12d6f2b",
   "patches": [
     "mods/RenderScale-forge-1.20.1-1.0.jar.disabled",
     "mods/paladin-furniture-mod-1.4.2-forge-mc1.20.1.jar",
     "mods/mighty_mail-forge-1.20.1-1.1.4.jar",
     "mods/ParCool-1.20.1-3.4.1.5.jar",
     "mods/ParCool-CompatibilityAddon-1.20.1-3.3.1.0-1.0.jar",
-    "mods/maidsoulkitchen-1.20.1-alpha-v0.2.5-all.jar"
+    "mods/maidsoulkitchen-1.20.1-alpha-v0.2.5-all.jar",
+    "mods/creeperoverhaul-3.0.2-forge.jar",
+    "mods/damagenumbers-1.4.0-forge.jar"
   ],
   "resources": [
     {
@@ -154,6 +156,12 @@
       "hash": "4b08e5f8f2580842eacd5388458a0b52411a9fb2",
       "size": 360700,
       "url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/QQhzscay/Corgilib-Forge-1.20.1-4.0.3.4.jar"
+    },
+    {
+      "path": "mods/CreateNumismatics-1.0.15+forge-mc1.20.1.jar",
+      "hash": "f49daf6ea32cd7b15816dafff5cf8fe291c89218",
+      "size": 885623,
+      "url": "https://cdn.modrinth.com/data/Jdbbtt0i/versions/wjKJbg4D/CreateNumismatics-1.0.15%2Bforge-mc1.20.1.jar"
     },
     {
       "path": "mods/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
@@ -474,12 +482,6 @@
       "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar"
     },
     {
-      "path": "mods/argonauts-forge-1.20.1-1.0.10.jar",
-      "hash": "897c1f82873d8297c11e452737b1d32c690a00de",
-      "size": 644788,
-      "url": "https://cdn.modrinth.com/data/bb2EpKpx/versions/r0eKAc5z/argonauts-forge-1.20.1-1.0.10.jar"
-    },
-    {
       "path": "mods/azurelib-neo-1.20.1-3.0.15.jar",
       "hash": "967d49d351525c0f903982ea8cf4418cc1c11531",
       "size": 1283810,
@@ -660,12 +662,6 @@
       "url": "https://cdn.modrinth.com/data/Dq3STxps/versions/1el6zRxn/createrailwaysnavigator-forge-1.20.1-beta-0.8.4-C6.jar"
     },
     {
-      "path": "mods/creeperoverhaul-3.0.2-forge.jar",
-      "hash": "01e3275d3eb586c953ac786b1afee6e473eef947",
-      "size": 1456860,
-      "url": "https://cdn.modrinth.com/data/MI1LWe93/versions/Ap1DSAzz/creeperoverhaul-3.0.2-forge.jar"
-    },
-    {
       "path": "mods/cupboard-1.20.1-2.7.jar",
       "hash": "204bc8aa83e8a685f64311b72d55505ab2eca867",
       "size": 25983,
@@ -676,12 +672,6 @@
       "hash": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
       "size": 398066,
       "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1.jar"
-    },
-    {
-      "path": "mods/damagenumbers-1.4.0-forge.jar",
-      "hash": "72ba3a970e2a112aee0b66b825b15720ba3c38e3",
-      "size": 38418,
-      "url": "https://cdn.modrinth.com/data/iWdXs2dQ/versions/LDcDBWsF/damagenumbers-1.4.0-forge.jar"
     },
     {
       "path": "mods/deeperdarker-forge-1.20.1-1.3.3-repacked.jar",
