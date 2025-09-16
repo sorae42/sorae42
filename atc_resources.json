@@ -1,7 +1,7 @@
 {
   "name": "All Things Considered Reloaded",
-  "version": "1.4.40",
-  "resource_set_hash": "7c8f666c2c6e3c770cec97f8ec1a0b54f5e236af",
+  "version": "1.4.41",
+  "resource_set_hash": "3c0a2be2309f491ef11b3d90ef6f6e93b6f7993e",
   "patches": [
     "mods/paladin-furniture-mod-1.4.2-forge-mc1.20.1.jar",
     "mods/mighty_mail-forge-1.20.1-1.1.4.jar",
@@ -718,8 +718,8 @@
     },
     {
       "path": "mods/enlightend-5.0.14-1.20.1-repacked.jar",
-      "hash": "8e2f8d4b8f31fc71cc18fa51a7e4711b4ba1de7f",
-      "size": 13326950,
+      "hash": "69ad21e006c812521a8945cdf27c557b463042bd",
+      "size": 13093794,
       "url": "https://github.com/sorae42/sorae42/releases/download/atc/enlightend-5.0.14-1.20.1-repacked.jar"
     },
     {
