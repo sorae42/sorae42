@@ -1,7 +1,7 @@
 {
   "name": "All Things Considered Reloaded",
-  "version": "1.4.41",
-  "resource_set_hash": "3c0a2be2309f491ef11b3d90ef6f6e93b6f7993e",
+  "version": "1.4.42",
+  "resource_set_hash": "698d294b50776d348fa9bc9dc05ed1760ec78ef3",
   "patches": [
     "mods/paladin-furniture-mod-1.4.2-forge-mc1.20.1.jar",
     "mods/mighty_mail-forge-1.20.1-1.1.4.jar",
@@ -11,7 +11,8 @@
     "mods/creeperoverhaul-3.0.2-forge.jar",
     "mods/damagenumbers-1.4.0-forge.jar",
     "mods/lcmcmod-0.3.5-forge-1.20.1.jar",
-    "mods/MutantMonsters-v8.0.7-1.20.1-Forge.jar"
+    "mods/MutantMonsters-v8.0.7-1.20.1-Forge.jar",
+    "mods/alltheleaks-1.0.2+1.20.1-forge.jar"
   ],
   "resources": [
     {
@@ -447,10 +448,10 @@
       "url": "https://cdn.modrinth.com/data/YhmgMVyu/versions/2411kUqF/aether-1.20.1-1.5.2-neoforge.jar"
     },
     {
-      "path": "mods/alltheleaks-1.0.2+1.20.1-forge.jar",
-      "hash": "ead0c329b746ef023292f870874906a388212c93",
-      "size": 1135004,
-      "url": "https://mediafilez.forgecdn.net/files/6925/345/alltheleaks-1.0.2%2B1.20.1-forge.jar"
+      "path": "mods/alltheleaks-1.0.4+1.20.1-forge.jar",
+      "hash": "4aafc8d482e3da5d9c59029f8614d44c93c6d86f",
+      "size": 1137043,
+      "url": "https://mediafilez.forgecdn.net/files/6967/574/alltheleaks-1.0.4%2B1.20.1-forge.jar"
     },
     {
       "path": "mods/amendments-1.20-2.2.1.jar",
@@ -843,6 +844,18 @@
       "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/hmeyC41q/kotlinforforge-4.11.0-all.jar"
     },
     {
+      "path": "mods/kubejs-create-forge-2001.3.0-build.8.jar",
+      "hash": "cbeb6643d1cea979a7e01c87cfb08b9210a1c393",
+      "size": 30960,
+      "url": "https://cdn.modrinth.com/data/T38eAZQC/versions/5vppyenb/kubejs-create-forge-2001.3.0-build.8.jar"
+    },
+    {
+      "path": "mods/kubejs-forge-2001.6.5-build.16.jar",
+      "hash": "93fcf0eacc5dc08a4f719eaaed1dc93f0dc80f66",
+      "size": 1654660,
+      "url": "https://cdn.modrinth.com/data/umyGl7zF/versions/g5igndAv/kubejs-forge-2001.6.5-build.16.jar"
+    },
+    {
       "path": "mods/letsdo-bakery-forge-2.0.6.jar",
       "hash": "75f35ba47c07d4af5b8b4e05fcffb74fc1583685",
       "size": 1222186,
@@ -1075,6 +1088,12 @@
       "hash": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa",
       "size": 432753,
       "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/OhsHaCcW/resourcefullib-forge-1.20.1-2.1.29.jar"
+    },
+    {
+      "path": "mods/rhino-forge-2001.2.3-build.10.jar",
+      "hash": "c83c9b719a6bab33fbd2b3f2f680eb3adbfc1aa1",
+      "size": 1798244,
+      "url": "https://cdn.modrinth.com/data/sk9knFPE/versions/uNALdylI/rhino-forge-2001.2.3-build.10.jar"
     },
     {
       "path": "mods/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
