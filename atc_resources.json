@@ -1,7 +1,7 @@
 {
   "name": "All Things Considered Reloaded",
-  "version": "1.4.42",
-  "resource_set_hash": "698d294b50776d348fa9bc9dc05ed1760ec78ef3",
+  "version": "1.4.43",
+  "resource_set_hash": "0466692def52930b33c519afb3a573abcc29f6e1",
   "patches": [
     "mods/paladin-furniture-mod-1.4.2-forge-mc1.20.1.jar",
     "mods/mighty_mail-forge-1.20.1-1.1.4.jar",
@@ -12,7 +12,9 @@
     "mods/damagenumbers-1.4.0-forge.jar",
     "mods/lcmcmod-0.3.5-forge-1.20.1.jar",
     "mods/MutantMonsters-v8.0.7-1.20.1-Forge.jar",
-    "mods/alltheleaks-1.0.2+1.20.1-forge.jar"
+    "mods/alltheleaks-1.0.2+1.20.1-forge.jar",
+    "mods/Harmonia-forge-1.2.0.jar",
+    "mods/cadmus-forge-1.20.1-1.0.8.jar"
   ],
   "resources": [
     {
@@ -218,12 +220,6 @@
       "hash": "bba0b08fe76b28b35243fee53f99d54a18153b53",
       "size": 87551,
       "url": "https://cdn.modrinth.com/data/s3dmwKy5/versions/pYPZ5MNI/GlitchCore-forge-1.20.1-0.0.1.1.jar"
-    },
-    {
-      "path": "mods/Harmonia-forge-1.2.0.jar",
-      "hash": "3ff115ed4f4a07a01c0afacb94d4b05b835d7848",
-      "size": 222235,
-      "url": "https://cdn.modrinth.com/data/GdS8zuZT/versions/ePbrJ8o1/Harmonia-forge-1.2.0.jar"
     },
     {
       "path": "mods/Iceberg-1.20.1-forge-1.1.25.jar",
@@ -524,12 +520,6 @@
       "hash": "a6928cb03b7c5f81900d3d3c8e8c8f6a89a51a5b",
       "size": 157633,
       "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/O7D6FTfW/botarium-forge-1.20.1-2.3.4.jar"
-    },
-    {
-      "path": "mods/cadmus-forge-1.20.1-1.0.8.jar",
-      "hash": "af2422495a8e5e271f4b2b729c0eb1e85b5bda49",
-      "size": 522263,
-      "url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/vtGe3auv/cadmus-forge-1.20.1-1.0.8.jar"
     },
     {
       "path": "mods/caelus-forge-3.2.0+1.20.1.jar",
