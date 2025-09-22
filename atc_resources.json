@@ -1,7 +1,7 @@
 {
   "name": "All Things Considered Reloaded",
-  "version": "1.4.43",
-  "resource_set_hash": "0466692def52930b33c519afb3a573abcc29f6e1",
+  "version": "1.4.44",
+  "resource_set_hash": "66c67f9dcf93f71faf08a6f3b8fe85ff195e1ed9",
   "patches": [
     "mods/paladin-furniture-mod-1.4.2-forge-mc1.20.1.jar",
     "mods/mighty_mail-forge-1.20.1-1.1.4.jar",
@@ -388,6 +388,12 @@
       "hash": "da83283d2e40f3762da7ba353f894c083eff760d",
       "size": 1424256,
       "url": "https://cdn.modrinth.com/data/tkqUgNnN/versions/3QAKIPlN/TheatricalExtraLights-forge-1.1.0-release-mc1.20.1.jar"
+    },
+    {
+      "path": "mods/WorldComment-0.3.2+1.20.1.jar",
+      "hash": "b31298d6553bba84b3f811c185f49a9a467b8434",
+      "size": 4499260,
+      "url": "https://cdn.modrinth.com/data/GNAofCJ3/versions/SebcJV8H/WorldComment-0.3.2%2B1.20.1.jar"
     },
     {
       "path": "mods/XaerosWorldMap_1.39.12_Forge_1.20.jar",
