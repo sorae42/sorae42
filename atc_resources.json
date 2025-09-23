@@ -1,7 +1,7 @@
 {
   "name": "All Things Considered Reloaded",
-  "version": "1.5",
-  "resource_set_hash": "f6ba15979702bc9f1df918f2dc48d3e8f7ef9fa2",
+  "version": "1.5.0",
+  "resource_set_hash": "a666c13a9a9d29860a91b84ead99fe04b772e3df",
   "patches": [
     "mods/paladin-furniture-mod-1.4.2-forge-mc1.20.1.jar",
     "mods/mighty_mail-forge-1.20.1-1.1.4.jar",
@@ -87,9 +87,9 @@
     },
     {
       "path": "config/fancymenu/customization/title_screen_layout.txt",
-      "hash": "75e97f5116d982e50cd94e4ae52f3d9be8bcd04c",
-      "size": 45655,
-      "url": "https://github.com/sorae42/sorae42/releases/download/atc/title_screen_layout.txt"
+      "hash": "86f1756823fbc06ad4e7d183be568f2d61a5f2d2",
+      "size": 45814,
+      "url": "https://github.com/sorae42/sorae42/releases/download/1.5/title_screen_layout.txt"
     },
     {
       "path": "config/paxi/resourcepacks/SmoothFont_1.21.zip",
