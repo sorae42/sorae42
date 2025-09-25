@@ -1,7 +1,7 @@
 {
   "name": "All Things Considered Reloaded",
-  "version": "1.5.0",
-  "resource_set_hash": "a666c13a9a9d29860a91b84ead99fe04b772e3df",
+  "version": "1.5.2",
+  "resource_set_hash": "eec10e23f3f74c80817599e849334fcf58f3ae5c",
   "patches": [
     "mods/paladin-furniture-mod-1.4.2-forge-mc1.20.1.jar",
     "mods/mighty_mail-forge-1.20.1-1.1.4.jar",
@@ -270,6 +270,12 @@
       "hash": "1997e5fe2db3a0575ca79bfe4720019f01fd2b8c",
       "size": 552486,
       "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/LecuGude/Jade-1.20.1-Forge-11.13.2.jar"
+    },
+    {
+      "path": "mods/L_Enders_Cataclysm-3.16-repacked.jar",
+      "hash": "ca31c413825ffcda0e17c4bddf16f05582bb0b73",
+      "size": 55133956,
+      "url": "https://github.com/sorae42/sorae42/releases/download/1.5/L_Enders_Cataclysm-3.16-repacked.jar"
     },
     {
       "path": "mods/LegendaryTooltips-1.20.1-forge-1.4.5.jar",
@@ -924,6 +930,12 @@
       "hash": "815dee091892877bfdbb11b330ea2a304937b779",
       "size": 2102995,
       "url": "https://cdn.modrinth.com/data/AAiRU4aQ/versions/MOt4yaRr/letsdo-wildernature-forge-1.0.6.jar"
+    },
+    {
+      "path": "mods/lionfishapi-2.4-Fix.jar",
+      "hash": "b198f38fb27dfc6db490b496d56aa1622d5a5b87",
+      "size": 162767,
+      "url": "https://mediafilez.forgecdn.net/files/5911/889/lionfishapi-2.4.jar"
     },
     {
       "path": "mods/mahoutsukai-1.20.1-v1.34.74.jar",
