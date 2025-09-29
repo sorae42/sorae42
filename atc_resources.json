@@ -1,7 +1,7 @@
 {
   "name": "All Things Considered Reloaded",
-  "version": "1.5.2",
-  "resource_set_hash": "eec10e23f3f74c80817599e849334fcf58f3ae5c",
+  "version": "1.5.5",
+  "resource_set_hash": "2d458b523a199847b3195d93c6a30e3fc7aafcb9",
   "patches": [
     "mods/paladin-furniture-mod-1.4.2-forge-mc1.20.1.jar",
     "mods/mighty_mail-forge-1.20.1-1.1.4.jar",
@@ -46,7 +46,19 @@
     "mods/voicechat-forge-1.20.1-2.5.36.jar",
     "mods/waterframes-FORGE-mc1.20.1-v2.1.15.jar",
     "mods/watermedia-2.1.27.jar",
-    "mods/youkaishomecoming-2.5.9.jar"
+    "mods/youkaishomecoming-2.5.9.jar",
+    "mods/Oh-The-Biomes-Weve-Gone-Forge-1.6.5.jar",
+    "mods/Ping-Wheel-1.11.0-forge-1.20.1.jar",
+    "mods/alltheleaks-1.0.4+1.20.1-forge.jar",
+    "mods/aquamirae-6.API15-repacked.jar",
+    "mods/connectivity-1.20.1-7.1.jar",
+    "mods/geckolib-forge-1.20.1-4.8.1.jar",
+    "mods/letsdo-camping-forge-1.0.4.jar",
+    "mods/letsdo-farm_and_charm-forge-1.0.12.jar",
+    "mods/mcw-windows-2.4.0-1.20.1forge.jar",
+    "mods/moonlight-1.20-2.16.12-forge.jar",
+    "mods/mysterious_mountain_lib-1.5.24-1.20.1.jar",
+    "mods/smsn-forge-1.2.10-1.20.1.jar"
   ],
   "resources": [
     {
@@ -326,10 +338,10 @@
       "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/ksEG6N5E/NoChatReports-FORGE-1.20.1-v2.2.2.jar"
     },
     {
-      "path": "mods/Oh-The-Biomes-Weve-Gone-Forge-1.6.5.jar",
-      "hash": "5ee75963f5a2ea9b17dba207816f205674d75560",
-      "size": 18681340,
-      "url": "https://cdn.modrinth.com/data/NTi7d3Xc/versions/ybI7ZZBA/Oh-The-Biomes-Weve-Gone-Forge-1.6.5.jar"
+      "path": "mods/Oh-The-Biomes-Weve-Gone-Forge-1.6.6.jar",
+      "hash": "b44a6ae88b1ea1ff0621dd77466dffbddebb601e",
+      "size": 18682341,
+      "url": "https://cdn.modrinth.com/data/NTi7d3Xc/versions/Qi6nRfbd/Oh-The-Biomes-Weve-Gone-Forge-1.6.6.jar"
     },
     {
       "path": "mods/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.3.13.jar",
@@ -368,10 +380,10 @@
       "url": "https://cdn.modrinth.com/data/CU0PAyzb/versions/C7buFh0l/Paxi-1.20-Forge-4.0.jar"
     },
     {
-      "path": "mods/Ping-Wheel-1.11.0-forge-1.20.1.jar",
-      "hash": "b0d04d3c1ae13a3cb6d6450c1c94d5c9bc82db5c",
-      "size": 140563,
-      "url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/usgkP0fO/Ping-Wheel-1.11.0-forge-1.20.1.jar"
+      "path": "mods/Ping-Wheel-1.11.1-forge-1.20.1.jar",
+      "hash": "840fb89564c7cef0ce54c09220a772c2970d077f",
+      "size": 141009,
+      "url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/ECMhrBsg/Ping-Wheel-1.11.1-forge-1.20.1.jar"
     },
     {
       "path": "mods/Platform-forge-1.20.1-1.2.10.1.jar",
@@ -476,10 +488,10 @@
       "url": "https://cdn.modrinth.com/data/YhmgMVyu/versions/2411kUqF/aether-1.20.1-1.5.2-neoforge.jar"
     },
     {
-      "path": "mods/alltheleaks-1.0.4+1.20.1-forge.jar",
-      "hash": "4aafc8d482e3da5d9c59029f8614d44c93c6d86f",
-      "size": 1137043,
-      "url": "https://mediafilez.forgecdn.net/files/6967/574/alltheleaks-1.0.4%2B1.20.1-forge.jar"
+      "path": "mods/alltheleaks-1.0.6+1.20.1-forge.jar",
+      "hash": "0a413f6fd8c02abc3544e7aa70957d2069780cca",
+      "size": 1172581,
+      "url": "https://mediafilez.forgecdn.net/files/7040/641/alltheleaks-1.0.6%2B1.20.1-forge.jar"
     },
     {
       "path": "mods/amendments-1.20-2.2.1.jar",
@@ -494,10 +506,10 @@
       "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/XdXDExVF/appleskin-forge-mc1.20.1-2.5.1.jar"
     },
     {
-      "path": "mods/aquamirae-6.API15-repacked.jar",
-      "hash": "ecc22014af652fb7ba244912785fa69557b2cd74",
-      "size": 9906671,
-      "url": "https://github.com/sorae42/sorae42/releases/download/atc/aquamirae-6.API15-repacked.jar"
+      "path": "mods/aquamirae-forge-1.20.1-6.1.0-repacked.jar",
+      "hash": "74565c578a330a98dc165b653637df9544651092",
+      "size": 9478628,
+      "url": "https://github.com/sorae42/sorae42/releases/download/1.5/aquamirae-forge-1.20.1-6.1.0-repacked.jar"
     },
     {
       "path": "mods/architectury-9.2.14-forge.jar",
@@ -560,6 +572,12 @@
       "url": "https://cdn.modrinth.com/data/40FYwb4z/versions/mRry0DgY/caelus-forge-3.2.0%2B1.20.1.jar"
     },
     {
+      "path": "mods/camping-forge-1.20.1-2.0.0.jar",
+      "hash": "f4c4f06b6a72681d09f5dfe33319e41c0b83b85b",
+      "size": 722014,
+      "url": "https://cdn.modrinth.com/data/uJXTNuf0/versions/9F2B7Pl4/camping-forge-1.20.1-2.0.0.jar"
+    },
+    {
       "path": "mods/cc-tweaked-1.20.1-forge-1.116.1.jar",
       "hash": "117f78ad17ef779220b4bc028b130824034ec045",
       "size": 3079734,
@@ -602,10 +620,10 @@
       "url": "https://cdn.modrinth.com/data/iNJJU8Ib/versions/akFeLxqb/compatdelight-1.0.1.1.jar"
     },
     {
-      "path": "mods/connectivity-1.20.1-7.1.jar",
-      "hash": "d4f2165b6c34439d110111c71d774f19d6947261",
-      "size": 112550,
-      "url": "https://mediafilez.forgecdn.net/files/6229/159/connectivity-1.20.1-7.1.jar"
+      "path": "mods/connectivity-1.20.1-7.2.jar",
+      "hash": "b05ecfb2729938fb5ce38df6af43b0b4e55b1833",
+      "size": 112268,
+      "url": "https://mediafilez.forgecdn.net/files/7032/390/connectivity-fabric-1.20.1-7.2.jar"
     },
     {
       "path": "mods/copycats-3.0.2+mc.1.20.1-forge.jar",
@@ -812,10 +830,10 @@
       "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/eNoSkpjw/fzzy_config-0.7.2%2B1.20.1%2Bforge.jar"
     },
     {
-      "path": "mods/geckolib-forge-1.20.1-4.8.1.jar",
-      "hash": "8299cbec33b6300dbb93403fb36669d9680aaab9",
+      "path": "mods/geckolib-forge-1.20.1-4.8.2.jar",
+      "hash": "395a9f21a36dc8466d67c2af67a904e7013460d1",
       "size": 1038979,
-      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/bVtfWE8S/geckolib-forge-1.20.1-4.8.1.jar"
+      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/aVW7Z5da/geckolib-forge-1.20.1-4.8.2.jar"
     },
     {
       "path": "mods/holoproduct-1.20.1-forge-downscale256.jar",
@@ -884,22 +902,16 @@
       "url": "https://cdn.modrinth.com/data/b7NV2plI/versions/CC0M409e/letsdo-brewery-forge-2.0.6.jar"
     },
     {
-      "path": "mods/letsdo-camping-forge-1.0.4.jar",
-      "hash": "c4dd8af89d99efcb4a8726dc8b755390434e46fc",
-      "size": 685988,
-      "url": "https://cdn.modrinth.com/data/uJXTNuf0/versions/nCrrOl0N/letsdo-camping-forge-1.0.4.jar"
-    },
-    {
       "path": "mods/letsdo-candlelight-forge-2.0.5.jar",
       "hash": "67b5560125db588cb1d87c042cc9dce9833861d7",
       "size": 2507744,
       "url": "https://cdn.modrinth.com/data/qwbArkQk/versions/MAbMsxdU/letsdo-candlelight-forge-2.0.5.jar"
     },
     {
-      "path": "mods/letsdo-farm_and_charm-forge-1.0.12.jar",
-      "hash": "7ed5e6f14ef5b8cf6950dc68b4c461863c2bb9fd",
-      "size": 2319050,
-      "url": "https://cdn.modrinth.com/data/HJetCzWo/versions/UyTJY7PU/letsdo-farm_and_charm-forge-1.0.12.jar"
+      "path": "mods/letsdo-farm_and_charm-forge-1.0.13.jar",
+      "hash": "cd60f5da26e7b062be96f4710038b6d0f3f05422",
+      "size": 2321061,
+      "url": "https://cdn.modrinth.com/data/HJetCzWo/versions/pnTgcbiY/letsdo-farm_and_charm-forge-1.0.13.jar"
     },
     {
       "path": "mods/letsdo-furniture-forge-1.0.4.jar",
@@ -968,16 +980,16 @@
       "url": "https://cdn.modrinth.com/data/rH20L2Lp/versions/Vjwyh6DJ/mcw-mcwholidays-1.1.1-mc1.20.1forge.jar"
     },
     {
+      "path": "mods/mcw-mcwwindows-2.4.1-mc1.20.1forge.jar",
+      "hash": "5f19b5765ca9ede4f0a5d9bf0218bd469d0b2b7b",
+      "size": 1320952,
+      "url": "https://cdn.modrinth.com/data/C7I0BCni/versions/sAci0S1N/mcw-mcwwindows-2.4.1-mc1.20.1forge.jar"
+    },
+    {
       "path": "mods/mcw-stairs-1.0.1-1.20.1forge.jar",
       "hash": "90f3a4002518d5c03353891498f8ad7b55332d2d",
       "size": 540915,
       "url": "https://cdn.modrinth.com/data/iP3wH1ha/versions/BKaABdta/mcw-stairs-1.0.1-1.20.1forge.jar"
-    },
-    {
-      "path": "mods/mcw-windows-2.4.0-1.20.1forge.jar",
-      "hash": "729457d0adb369f8151618e71d3638df148623f5",
-      "size": 1320945,
-      "url": "https://cdn.modrinth.com/data/C7I0BCni/versions/KzTPAR92/mcw-windows-2.4.0-1.20.1forge.jar"
     },
     {
       "path": "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
@@ -998,16 +1010,16 @@
       "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/CixO1IdG/modernfix-forge-5.24.4%2Bmc1.20.1.jar"
     },
     {
-      "path": "mods/moonlight-1.20-2.16.12-forge.jar",
-      "hash": "18215c1c1780c2ce8ba595ee4fcf58ba98df5b58",
-      "size": 1332684,
-      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/TJzmY3qX/moonlight-1.20-2.16.12-forge.jar"
+      "path": "mods/moonlight-1.20-2.16.13-forge.jar",
+      "hash": "129d43de27f584d4cde8c64a3773b1848bfc557d",
+      "size": 1333837,
+      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/FGswLGsg/moonlight-1.20-2.16.13-forge.jar"
     },
     {
-      "path": "mods/mysterious_mountain_lib-1.5.24-1.20.1.jar",
-      "hash": "3d8faf3c9e7a727758d6a76d284cf923f987146b",
-      "size": 314651,
-      "url": "https://cdn.modrinth.com/data/ntMyNH8c/versions/mSVq2uKf/mysterious_mountain_lib-1.5.24-1.20.1.jar"
+      "path": "mods/mysterious_mountain_lib-1.5.26-1.20.1.jar",
+      "hash": "830539d5ad0e3814d7418f44191076713b52e6a3",
+      "size": 320145,
+      "url": "https://cdn.modrinth.com/data/ntMyNH8c/versions/6Qs3olf4/mysterious_mountain_lib-1.5.26-1.20.1.jar"
     },
     {
       "path": "mods/naturalist-5.0pre3+forge-1.20.1.jar",
@@ -1154,10 +1166,10 @@
       "url": "https://cdn.modrinth.com/data/tNai0h2Y/versions/BKnUEJqy/sleep_tight-1.20-1.4.6.jar"
     },
     {
-      "path": "mods/smsn-forge-1.2.10-1.20.1.jar",
-      "hash": "dcbfacb30202f44fb556558fff799b3c896c2b47",
-      "size": 92756,
-      "url": "https://cdn.modrinth.com/data/oXzIQwRj/versions/Q8QHYZ43/smsn-forge-1.2.10-1.20.1.jar"
+      "path": "mods/smsn-forge-1.3.1-1.20.1.jar",
+      "hash": "f954d39004fa7b234e3472c8383a384d48546f74",
+      "size": 102182,
+      "url": "https://cdn.modrinth.com/data/oXzIQwRj/versions/QyiJtBbN/smsn-forge-1.3.1-1.20.1.jar"
     },
     {
       "path": "mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
