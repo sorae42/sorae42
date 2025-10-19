@@ -1,7 +1,7 @@
 {
   "name": "All Things Considered Reloaded",
-  "version": "1.5.7",
-  "resource_set_hash": "897c7d5b9466cfce22618cf64643fa6e0e8b9aa1",
+  "version": "1.5.8",
+  "resource_set_hash": "66aacd11ca190ce1b90b4a7cfa4d89bbcbb11883",
   "patches": [
     "mods/paladin-furniture-mod-1.4.2-forge-mc1.20.1.jar",
     "mods/mighty_mail-forge-1.20.1-1.1.4.jar",
@@ -84,7 +84,9 @@
     "mods/toomanyrecipeviewers-0.6.3+mc.20.1.jar",
     "mods/travelersbackpack-forge-1.20.1-9.1.41.jar",
     "mods/umapyoi-1.10.63-1.20.1.jar",
-    "mods/voicechat-forge-1.20.1-2.6.4.jar"
+    "mods/voicechat-forge-1.20.1-2.6.4.jar",
+    "mods/GeckoLibOculusCompat-Forge-1.0.1.jar",
+    "mods/[1.20.1-Forge] Hybrid Aquatic 1.5.0.jar"
   ],
   "resources": [
     {
@@ -266,12 +268,6 @@
       "hash": "5ab6e361d3a68159ac0d5d252c6558d355e564af",
       "size": 99737,
       "url": "https://cdn.modrinth.com/data/FsoeTIV0/versions/R0MOnh2f/FastItemFrames-v20.1.5-1.20.1-Forge.jar"
-    },
-    {
-      "path": "mods/GeckoLibOculusCompat-Forge-1.0.1.jar",
-      "hash": "d5c91ae0cfade2672bf00628721da661a59930c5",
-      "size": 6239,
-      "url": "https://cdn.modrinth.com/data/TbriQCWD/versions/uWXuMaW4/GeckoLibOculusCompat-Forge-1.0.1.jar"
     },
     {
       "path": "mods/GlitchCore-forge-1.20.1-0.0.1.1.jar",
@@ -478,10 +474,10 @@
       "url": "https://cdn.modrinth.com/data/cs7iGVq1/versions/UzIwhtOp/YungsCaveBiomes-1.20.1-Forge-2.0.5.jar"
     },
     {
-      "path": "mods/[1.20.1-Forge] Hybrid Aquatic 1.5.0.jar",
-      "hash": "964fd378c6a42676a2b94719b8ec87a4d430b700",
-      "size": 3942882,
-      "url": "https://cdn.modrinth.com/data/HH4FjUqN/versions/EOH1EiT1/%5B1.20.1-Forge%5D%20Hybrid%20Aquatic%201.5.0.jar"
+      "path": "mods/[1.20.1-Forge] Hybrid Aquatic 1.5.1.jar",
+      "hash": "2639eeb8727a07207c0247194aad90f35c0e5b69",
+      "size": 3901073,
+      "url": "https://cdn.modrinth.com/data/HH4FjUqN/versions/ocVZpUxb/%5B1.20.1-Forge%5D%20Hybrid%20Aquatic%201.5.1.jar"
     },
     {
       "path": "mods/ad_astra-forge-1.20.1-1.15.20.jar",
@@ -506,6 +502,12 @@
       "hash": "e2fdd161f35ca1b6db774906e88e266d7f12eab6",
       "size": 39746073,
       "url": "https://cdn.modrinth.com/data/YhmgMVyu/versions/2411kUqF/aether-1.20.1-1.5.2-neoforge.jar"
+    },
+    {
+      "path": "mods/alltheleaks-1.0.7+1.20.1-forge.jar",
+      "hash": "cd9b1b97c299bd8b2253048a037731d56b1cea9c",
+      "size": 1173400,
+      "url": "https://mediafilez.forgecdn.net/files/7065/24/alltheleaks-1.0.7%2B1.20.1-forge.jar"
     },
     {
       "path": "mods/amendments-1.20-2.2.2.jar",
@@ -1108,6 +1110,12 @@
       "url": "https://cdn.modrinth.com/data/hhnR8xqU/versions/cJBVuClJ/redirected-forge-1.0.0-1.20.1.jar"
     },
     {
+      "path": "mods/refurbished_furniture-forge-1.20.1-1.0.19.jar",
+      "hash": "83d1690c22f02563652f8f42571576f7a1e4aa68",
+      "size": 6689574,
+      "url": "https://mediafilez.forgecdn.net/files/7099/892/refurbished_furniture-forge-1.20.1-1.0.19.jar"
+    },
+    {
       "path": "mods/resourcefulconfig-forge-1.20.1-2.1.3.jar",
       "hash": "597d40920dcc935f963842c817dcc4901862ab14",
       "size": 136923,
@@ -1340,18 +1348,6 @@
       "hash": "a9f80eeff850790881cada839b562edfc430fd89",
       "size": 6044519,
       "url": "https://cdn.modrinth.com/data/uJT3ahxz/versions/aLyugkCh/youkaishomecoming-2.6.1.jar"
-    },
-    {
-      "path": "mods/alltheleaks-1.0.7+1.20.1-forge.jar",
-      "hash": "cd9b1b97c299bd8b2253048a037731d56b1cea9c",
-      "size": 1173400,
-      "url": "https://mediafilez.forgecdn.net/files/7065/24/alltheleaks-1.0.7%2B1.20.1-forge.jar"
-    },
-    {
-      "path": "mods/refurbished_furniture-forge-1.20.1-1.0.19.jar",
-      "hash": "83d1690c22f02563652f8f42571576f7a1e4aa68",
-      "size": 6689574,
-      "url": "https://mediafilez.forgecdn.net/files/7099/892/refurbished_furniture-forge-1.20.1-1.0.19.jar"
     }
   ]
 }
