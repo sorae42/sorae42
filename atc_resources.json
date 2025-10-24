@@ -1,7 +1,7 @@
 {
   "name": "All Things Considered Reloaded",
-  "version": "1.5.8",
-  "resource_set_hash": "66aacd11ca190ce1b90b4a7cfa4d89bbcbb11883",
+  "version": "1.5.9",
+  "resource_set_hash": "df256a511fc667a2c9479bd700402cf981733f6f",
   "patches": [
     "mods/paladin-furniture-mod-1.4.2-forge-mc1.20.1.jar",
     "mods/mighty_mail-forge-1.20.1-1.1.4.jar",
@@ -86,7 +86,8 @@
     "mods/umapyoi-1.10.63-1.20.1.jar",
     "mods/voicechat-forge-1.20.1-2.6.4.jar",
     "mods/GeckoLibOculusCompat-Forge-1.0.1.jar",
-    "mods/[1.20.1-Forge] Hybrid Aquatic 1.5.0.jar"
+    "mods/[1.20.1-Forge] Hybrid Aquatic 1.5.0.jar",
+    "mods/createarmoryv0.6.1n.jar"
   ],
   "resources": [
     {
@@ -682,12 +683,6 @@
       "hash": "0c408317b7c3bc3c7f7d5f6dbbb3ee106fa5f4fc",
       "size": 1547196,
       "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/SecVSw22/createaddition-1.20.1-1.3.1.jar"
-    },
-    {
-      "path": "mods/createarmoryv0.6.1n.jar",
-      "hash": "a87808cb03f05e4759d060190f2d8edb26e16d53",
-      "size": 1059027,
-      "url": "https://cdn.modrinth.com/data/MIxwm5GN/versions/pDrZUeDf/createarmoryv0.6.1n.jar"
     },
     {
       "path": "mods/createbetterfps-1.20.1-1.1.1.jar",
